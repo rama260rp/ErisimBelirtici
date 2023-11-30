@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErisimBelirtici", "ErisimBelirtici\ErisimBelirtici.csproj", "{1E211E88-4971-45E5-95EE-BC96E32AB190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E211E88-4971-45E5-95EE-BC96E32AB190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E211E88-4971-45E5-95EE-BC96E32AB190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E211E88-4971-45E5-95EE-BC96E32AB190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E211E88-4971-45E5-95EE-BC96E32AB190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2439F4E0-845A-4619-BD13-DC9DFA4BFFF5}
+	EndGlobalSection
+EndGlobal
